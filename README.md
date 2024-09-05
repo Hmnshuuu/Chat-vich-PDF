@@ -22,7 +22,6 @@ This App is an LLM-powered RAG-based Chatbot built using:
 
 The project structure is organized as follows:
 
-- `faiss_index/`: Directory where FAISS index files are stored.
 - `.env`: Environment variables configuration file
 - `.gitignore`: Git ignore file to exclude sensitive or unnecessary files from version control.
 - `app.py`: Main application file containing the Streamlit app code.
